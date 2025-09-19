@@ -1,0 +1,7 @@
+langchain
+openai
+streamlit
+python-dotenv
+langchain-openai
+httpx
+
